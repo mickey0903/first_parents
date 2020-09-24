@@ -2456,7 +2456,7 @@ textarea.form-control {
   background-color: transparent;
   border: 1px solid transparent;
   padding: 0.7rem;
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.5;
   letter-spacing: .03rem;
   border-radius: 10px;
@@ -10372,10 +10372,10 @@ header.masthead h1 {
 
 
 .btn-download {
-    padding-right: 1.5rem;
+    padding-right: 1.8rem;
     position: relative;
-    padding-left: 4rem;
-    text-align: left;
+    padding-left: 3.5rem;
+    text-align: right;
 }
 
 
@@ -10400,9 +10400,9 @@ header.masthead h1 {
     display: block;
     content: '';
     position: absolute;
-    height: 28px;
-    width: 28px;
-    top: 50%;
+    height: 25px;
+    width: 25px;
+    top: 51%;
     left: 1.5rem;
     margin-top: -14px;
 }
