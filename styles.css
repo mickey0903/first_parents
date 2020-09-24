@@ -5444,9 +5444,11 @@ a.close.disabled {
   align-items: center;
 }
 
+
+
 .ui-card {
   position: absolute;
-  top: 3rem;
+  top: -13rem;
 }
 
 .ui-card {
